@@ -1,6 +1,12 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Mijn visitekaartje
+Welkom op mijn visitekaartje pagina
+Dit project ging namelijk om jezelf te presenteren in vorm van een online visitekaartje.
+Uitleg over mijn proces hoe dat gegaan is kun je hier lezen.
+
+[proces visitekaartje](https://github.com/aajubitana/fdnd-visitekaartje-autonomous/wiki)
+
+![visitekaartjewebsite](https://github.com/aajubitana/fdnd-visitekaartje-autonomous/blob/master/bijlage/visitekaartjearmando.png)
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
